@@ -1,4 +1,4 @@
 # DSA-collaboration
 
 
-this is my first collaboration in github with others
+This is my first collaboration in github with others.
